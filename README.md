@@ -1,4 +1,6 @@
-Maven archetypes for creating Taverna plugins
+# Moved to Apache Taverna
 
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/dev/archetypes/
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-engine](https://github.com/apache/incubator-taverna-engine)
 
+This repository is kept for historical reasons - see the tags and branches.
